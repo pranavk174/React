@@ -1,0 +1,13 @@
+
+.btn{
+    scale:  110%;
+    transition: 0.3s;
+}
+
+
+.btn:hover{
+    scale:120%;
+
+}
+
+
